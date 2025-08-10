@@ -1,3 +1,3 @@
-from trading_platform.pipeline import TradingPipeline
+from trading_platform.bot import TradingBot
 
-pipeline = TradingPipeline()
+pipeline = TradingBot()
